@@ -33,3 +33,6 @@ This boilerplate include React Router, React Icons, & TailwindCSS. No app.css an
 [Vite](https://vitejs.dev/ "Vite")
 
 [React Icons](https://react-icons.github.io/react-icons "React Icons")
+
+## Additional Info(s):
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/samsleepingatparty/Vite-React-Boilerplate/releases)
